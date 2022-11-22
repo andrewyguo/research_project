@@ -1,0 +1,12 @@
+[submodule "instant-ngp"]
+	path = instant-ngp
+	url = https://github.com/andrewyguo/instant-ngp.git
+[submodule "detectron2"]
+	path = detectron2
+	url = https://github.com/andrewyguo/detectron2
+[submodule "BlenderProc"]
+	path = BlenderProc
+	url = https://github.com/andrewyguo/BlenderProc
+[submodule "nvdiffrec"]
+	path = nvdiffrec
+	url = https://github.com/andrewyguo/nvdiffrec
